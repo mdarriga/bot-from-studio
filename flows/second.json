@@ -1,0 +1,1 @@
+{"metadata":{},"name":"second","description":"Simple barebones flow. Code your own chatbot from this template!","commands":["second"],"content":"start:\n say \"This is a second flow\"\n goto end\n"}
