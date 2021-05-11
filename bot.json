@@ -2,6 +2,13 @@
   "id": "15fc32ae-ebcb-46d9-b745-7786c5439ec8",
   "name": "testEnv",
   "description": null,
-  "airules": [],
+  "airules": [
+    {
+      "commands": [],
+      "target": {
+        "flow_id": "c5428c17-568c-46d5-80c3-030315ba0a4a"
+      }
+    }
+  ],
   "default_flow": "Default"
 }
