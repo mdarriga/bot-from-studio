@@ -13,5 +13,5 @@ start:
   // To display simple text, simply write:
   say "Welcome to CSML Studio! 👋"
 
-  h the conversation
+  say "blabla"
   goto end
