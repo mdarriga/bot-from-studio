@@ -4,7 +4,9 @@
   "description": null,
   "airules": [
     {
-      "commands": [],
+      "commands": [
+        "test "
+      ],
       "target": {
         "flow_id": "c5428c17-568c-46d5-80c3-030315ba0a4a"
       }
