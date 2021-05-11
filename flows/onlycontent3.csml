@@ -11,7 +11,7 @@
  */
 start:
   // To display simple text, simply write:
-  say "Welcome to CSML Studio! 👋"
+  say "Welcome to CSML Studio!! 👋"
 
   // It's easy to display images as well!
   say Image("https://media.giphy.com/media/9PwxaMmfh1wfS/giphy.gif")
